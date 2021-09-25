@@ -1,0 +1,7 @@
+{
+  "_comment": "write your conf in file: `config.json`",
+  "email": {
+    "username": "me@exemple.com",
+    "password": "PASSWORD"
+  }
+}
