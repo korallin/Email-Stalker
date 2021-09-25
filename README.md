@@ -2,7 +2,7 @@
 How to know if someone open the email<br>
 **Website Client & Newletter Tracking system** 👺
 
-# Result exemple 🥸
+# Result exemple
 
 ## Server Side
 ```
